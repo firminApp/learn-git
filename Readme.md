@@ -2,6 +2,8 @@ This is quick guide to learn git
 # How to start?
 
 - clone this repos
+  
+    `git clone  git@github.com:firminApp/learn-git.git`
 - open it in your local
 - create new branch
 - checkout to your new branch
@@ -11,3 +13,4 @@ This is quick guide to learn git
 - commit your change 
 - push your change
 - create a merge request to master branch
+- jjhshsh
